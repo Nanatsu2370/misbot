@@ -1,6 +1,6 @@
 requests
 requests[socks] 
-Ñbs4 
+bs4 
 user_agent 
 ping3 
 nmap 
